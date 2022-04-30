@@ -1,4 +1,9 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoIorio11&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoIorio11)](https://github.com/MatteoIorio11/github-readme-stats)
+
+- 🌱 I’m currently learning Engineering and Computer Science, with a big interest in Machine Learning and Artificially Intelligence
 
 <!--
 **MatteoIorio11/MatteoIorio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
