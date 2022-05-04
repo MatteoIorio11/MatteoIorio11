@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+WAKATIME_API_KEY=5a87e747-82c1-48de-93e7-9204dcb98791
+GH_TOKEN=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
+<!--END_SECTION:waka-->
