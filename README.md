@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 WAKATIME_API_KEY=5a87e747-82c1-48de-93e7-9204dcb98791
-GH_TOKEN=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
+GH_TOKEN=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
 <!--END_SECTION:waka-->
