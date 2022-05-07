@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```text
+C#      1 hr 8 mins     ████████████████████▓░░░░   83.23 %
+Other   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+```
+
 <!--END_SECTION:waka-->
