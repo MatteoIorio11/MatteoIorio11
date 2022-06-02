@@ -23,8 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 28 mins    ████████████████████████▓   98.16 %
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
