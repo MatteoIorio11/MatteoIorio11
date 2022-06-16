@@ -23,7 +23,9 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#              13 mins         █████████▒░░░░░░░░░░░░░░░   37.85 %
+CSHTML          12 mins         ████████▓░░░░░░░░░░░░░░░░   34.41 %
+Other           9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
 ```
 
 <!--END_SECTION:waka-->
