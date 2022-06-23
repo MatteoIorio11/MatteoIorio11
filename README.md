@@ -23,7 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-Other           6 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   39.13 %
+Other           6 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   39.60 %
 ```
 
 <!--END_SECTION:waka-->
