@@ -23,8 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-C#       4 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   44.72 %
-Other    4 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.23 %
+Other    2 hrs 2 mins    ████████████▒░░░░░░░░░░░░   49.55 %
 ```
 
 <!--END_SECTION:waka-->
