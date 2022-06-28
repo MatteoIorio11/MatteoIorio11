@@ -23,7 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-Other    2 hrs 2 mins    ████████████▒░░░░░░░░░░░░   49.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
