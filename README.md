@@ -23,12 +23,12 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java             15 hrs 15 mins  ████████████████████░░░░░   80.34 %
-XML              2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-GitIgnore file   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-IDEA_MODULE      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-LOMBOK_CONFIG    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java             16 hrs 15 mins  ████████████████████▓░░░░   82.45 %
+XML              2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+GitIgnore file   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Manifest         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+IDEA_MODULE      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
