@@ -23,8 +23,8 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java   7 hrs 6 mins    ███████████████████████░░   92.33 %
-Text   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Java   5 hrs 21 mins   ██████████████████████▓░░   90.07 %
+Text   35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
 ```
 
 <!--END_SECTION:waka-->
