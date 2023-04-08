@@ -23,9 +23,9 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```text
-Java       23 hrs 21 mins  ████████████████████████▓   98.40 %
-Markdown   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java            22 hrs 4 mins   █████████████████████████   99.86 %
+XML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+LOMBOK_CONFIG   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
