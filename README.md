@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 My Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python   6 hrs 21 mins   ███████████████████████▓░   95.25 %
 HTML     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 INI      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
