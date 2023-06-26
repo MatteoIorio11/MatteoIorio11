@@ -23,8 +23,8 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python     20 mins         ████████████████▓░░░░░░░░   66.12 %
-Markdown   10 mins         ████████▒░░░░░░░░░░░░░░░░   33.88 %
+Python     20 mins         ████████████████▒░░░░░░░░   65.58 %
+Markdown   10 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
 ```
 
 <!--END_SECTION:waka-->
