@@ -23,7 +23,8 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████████   100.00 %
+Java       2 mins          ███████████████████████░░   91.54 %
+Markdown   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
