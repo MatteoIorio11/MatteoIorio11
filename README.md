@@ -23,9 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 39 mins   ███████████████████████░░   92.57 %
-Python     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
