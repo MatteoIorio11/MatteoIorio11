@@ -23,9 +23,9 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    1 hr 13 mins    ██████████████████████▓░░   90.66 %
-Terraform   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown    45 mins         █████████████████████▒░░░   85.76 %
+Terraform   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
