@@ -23,7 +23,9 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    27 mins         ████████████████████████▓   99.09 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
