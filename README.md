@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python                  13 hrs 3 mins   ██████████████████░░░░░░░   72.32 %
-Java                    2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Markdown                36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-ANTLR v4 grammar file   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Text                    23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Python                  10 hrs 34 mins  ████████████████▓░░░░░░░░   66.95 %
+Java                    2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Text                    38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Markdown                36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+ANTLR v4 grammar file   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
