@@ -23,11 +23,10 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     6 hrs 32 mins   █████████████▒░░░░░░░░░░░   52.83 %
-Java                       4 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.98 %
-Text                       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Nginx configuration file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Makefile                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python     7 hrs 23 mins   █████████████████████▒░░░   85.99 %
+Markdown   51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Java       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
