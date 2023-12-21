@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           5 hrs 6 mins    █████████████████░░░░░░░░   68.02 %
-Markdown         1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Python           49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Kotlin           5 hrs 29 mins   ██████████████████████▒░░   89.63 %
+Markdown         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+textmate         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
