@@ -23,10 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   34 mins         ██████████████▓░░░░░░░░░░   58.68 %
-Kotlin       10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-HTML         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-CSS          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
