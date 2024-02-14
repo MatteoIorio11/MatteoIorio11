@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python           24 mins         ████████████████████░░░░░   80.66 %
-Makefile         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Shell Script     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Makefile                   49 mins         ███████████████▓░░░░░░░░░   62.18 %
+Python                     24 mins         ████████░░░░░░░░░░░░░░░░░   31.38 %
+Shell Script               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+textmate                   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+GitIgnore file             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
