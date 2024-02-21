@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       1 hr 31 mins    ██████████▓░░░░░░░░░░░░░░   42.16 %
-Makefile                   1 hr 14 mins    ████████▓░░░░░░░░░░░░░░░░   34.01 %
-Markdown                   24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-ANTLR v4 grammar file      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Docker                     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Java                       2 hrs 38 mins   ██████████████▒░░░░░░░░░░   56.87 %
+Markdown                   45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Makefile                   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+CoffeeScript               12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript                 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
