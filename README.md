@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Scala            7 hrs 2 mins    █████████████░░░░░░░░░░░░   52.35 %
-Python           3 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
-Java             1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-JavaScript       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-GitIgnore file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Scala            8 hrs 5 mins    ████████████████░░░░░░░░░   63.94 %
+Python           2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Java             1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+GitIgnore file   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Kotlin           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
