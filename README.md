@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Scala            5 hrs 42 mins   █████████████████▓░░░░░░░   70.23 %
-TypeScript       1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-HTML             45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Scala            6 hrs 14 mins   ██████████████████▒░░░░░░   73.95 %
+TypeScript       1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+HTML             45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
