@@ -23,7 +23,8 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Scala   14 hrs 37 mins  █████████████████████████   100.00 %
+Scala   15 hrs 14 mins  █████████████████████████   99.40 %
+Java    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
