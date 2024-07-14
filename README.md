@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   35.05 %
-Scala        6 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   32.82 %
-Markdown     3 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-Other        1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-TypeScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Python       6 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   35.63 %
+Scala        6 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.69 %
+Markdown     3 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+Other        1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+TypeScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
