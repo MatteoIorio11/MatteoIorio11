@@ -23,8 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Scala      2 hrs 6 mins    ██████████████████░░░░░░░   71.81 %
-Markdown   49 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 %
+Scala   1 hr 5 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
