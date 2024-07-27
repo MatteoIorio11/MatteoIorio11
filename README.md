@@ -23,7 +23,8 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 min           ██████████████████▒░░░░░░   72.95 %
+Scala        0 secs          ██████▓░░░░░░░░░░░░░░░░░░   27.05 %
 ```
 
 <!--END_SECTION:waka-->
