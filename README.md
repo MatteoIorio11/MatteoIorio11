@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 40 mins   ███████████████▒░░░░░░░░░   61.67 %
-Kotlin            1 hr 46 mins    ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-Java Properties   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Properties        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-GitIgnore file    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Java              5 hrs 53 mins   ████████████████████▒░░░░   81.41 %
+Java Properties   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+GitIgnore file    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Properties        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Kotlin            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
