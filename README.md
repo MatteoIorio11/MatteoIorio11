@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   43.21 %
-Python            1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-TypeScript        1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-YAML              1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Java Properties   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python            2 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   32.19 %
+Java              2 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.21 %
+TypeScript        1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+YAML              1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+JavaScript        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
