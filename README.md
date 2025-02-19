@@ -23,7 +23,8 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash   16 mins         ███████████████████████░░   92.14 %
+Lua    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 ```
 
 <!--END_SECTION:waka-->
