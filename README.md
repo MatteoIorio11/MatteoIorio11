@@ -23,11 +23,7 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Text              1 hr 32 mins    ███████████████▒░░░░░░░░░   61.30 %
-XML               20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Java              16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Other             9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Python            5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
