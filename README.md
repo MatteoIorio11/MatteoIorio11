@@ -23,7 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         51 mins         ███████████████░░░░░░░░░░   59.37 %
+Gherkin      34 mins         ██████████░░░░░░░░░░░░░░░   39.94 %
+Scala        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+CLASS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
