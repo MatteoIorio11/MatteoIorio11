@@ -23,9 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           24 mins         ██████████████████████▒░░   88.77 %
-TOML             2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Gradle         8 mins          ████████████▓░░░░░░░░░░░░   50.15 %
+Text           6 mins          █████████░░░░░░░░░░░░░░░░   36.28 %
+Markdown       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Shell Script   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+textmate       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
