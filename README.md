@@ -23,11 +23,11 @@ My Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Scala        5 hrs 15 mins   ████████████▓░░░░░░░░░░░░   50.64 %
-Java         3 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-Gherkin      1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Markdown     54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Scala        5 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.15 %
+Java         3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Markdown     1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Gherkin      1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
